@@ -31,7 +31,7 @@
 <h2>Connect with me</h3>
     <p>
         <a href="www.linkedin.com/in/aishaguba/"><img src="https://img.shields.io/badge/-Aisha%20Guba%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/aishaguba" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/muslimah_a"><img src="https://img.shields.io/badge/-Aisha Guba-informational?style=plastic&amp;labelColor=informational&amp;logo=X&amp;link=https://twitter.com/Dev_180Memes" alt="XBadge"></a>
+       <a href="https://twitter.com/musliimah_a"><img src="https://img.shields.io/badge/-Aisha Guba-informational?style=plastic&amp;labelColor=informational&amp;logo=X&amp;link=https://twitter.com/Dev_180Memes" alt="XBadge"></a>
         <a href="mailto:aishalwn59@gmail.com"><img src="https://img.shields.io/badge/-Aisha%20Guba-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:aishalwn59@gmail.com" alt="Gmail Badge"></a>
    </p>
    
