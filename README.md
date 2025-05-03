@@ -43,15 +43,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishaguba&&theme=tokyonight" alt="aishaguba" /></p>
 
-**You can check out my Articles here**
-- [Meduim](https://harmonyelendu.medium.com/)
-- [Substack](https://substack.com/@harmonyelendu)
+**You can check out my Projects here**
+- [The Hyped Eid Community](https://thehypedeidcommunity.com.ng/)
+- [Aigu Hub](https://aiguskillbuildingcenter.com/)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aishaguba&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
-
-### What I am listening to on Spotify now 🎧
-
-- [Morning Rave](https://open.spotify.com/playlist/5sMyzZSVJat6bZDd2HSlBa?si=Asab4MXNQ1qoJVNMYXMqUQ)
-
